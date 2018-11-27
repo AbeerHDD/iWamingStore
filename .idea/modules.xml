@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../AppESSAT2/.idea/AppESSAT2.iml" filepath="$PROJECT_DIR$/../../AppESSAT2/.idea/AppESSAT2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Boutique/.idea/Boutique.iml" filepath="$PROJECT_DIR$/../../Boutique/.idea/Boutique.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LiteMail/.idea/LiteMail.iml" filepath="$PROJECT_DIR$/../LiteMail/.idea/LiteMail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/PHP.iml" filepath="$PROJECT_DIR$/../.idea/PHP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/iWamingStore.iml" filepath="$PROJECT_DIR$/.idea/iWamingStore.iml" />
+    </modules>
+  </component>
+</project>
